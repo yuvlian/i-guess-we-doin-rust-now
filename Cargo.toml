@@ -1,0 +1,8 @@
+[package]
+name = "i-guess-we-doin-rust-now"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+image = "0.25.2"
+imageproc = "0.25.0"
